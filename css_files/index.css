@@ -77,11 +77,12 @@ p {
 	text-align: center;
 }
 
-
 .photo {
 	display: flex;
+	flex-direction: auto;
 	justify-content: center;
 	align-items: center;
+	width: auto;
 }
 
 .pBody {
